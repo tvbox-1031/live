@@ -1,0 +1,2 @@
+GET /api/file?path=/(https://raw.githubusercontent.com/tvbox-1031/live/refs/heads/main/live.txt)
+GET /api/file/:id
